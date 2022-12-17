@@ -8,12 +8,12 @@ dataLen_odd2 = [2, 1, 3, 6, 5, 8, 7, 9, 11, 12, 13, 10,
 dataLen_even1 = [2, 3, 4, 1, 5, 7, 6, 9, 10, 8]  # length 14
 dataLen_even2 = [12, 10, 8, 9, 6, 7, 11, 5, 3, 4, 2, 1]  # length 16
 
-print("Quartil 1 2 3 from odd data lenght\n")
+print("Quartil 1 2 3 from odd data length\n")
 find_Quartil(dataLen_odd1)
 print()
 find_Quartil(dataLen_odd2)
 
-print("\nQuartil 1 2 3 from even data lenght\n")
+print("\nQuartil 1 2 3 from even data length\n")
 find_Quartil(dataLen_even1)
 print()
 find_Quartil(dataLen_even2)
